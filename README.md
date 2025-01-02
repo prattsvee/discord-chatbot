@@ -1,2 +1,2 @@
 # discord-chatbot
-trying to create a discord  chatbot to talk to my personal portfolio
+trying to create a discord  chatbot so users can talk to my portfolio and resume.
