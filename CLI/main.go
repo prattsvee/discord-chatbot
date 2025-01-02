@@ -10,6 +10,7 @@ type Portfolio struct {
 	Title      string
 	Github     string
 	LinkedIn   string
+	Email      string
 	About      string
 	Skills     []string
 	Experience []string
@@ -28,6 +29,7 @@ func main() {
 		About:    "I'm a software engineer passionate about building cool stuff!",
 		Github:   "github.com/prattsvee",
 		LinkedIn: "linkedin.com/in/pratik-veera",
+		Email:    "pratiklalitv@gmail.com",
 		Skills: []string{
 			"Go",
 			"Python",
@@ -47,9 +49,9 @@ func main() {
 		About(portfolio)
 	case "skills":
 		Skills(portfolio)
-	case "experience": // Fixed typo in "experience"
+	case "experience":
 		Experience(portfolio)
-	case "contact": // Fixed typo in "contact"
+	case "contact":
 		Contact(portfolio)
 	default:
 		help()
@@ -82,6 +84,7 @@ func Contact(p Portfolio) {
 	fmt.Println("\n📫 Contact:")
 	fmt.Printf("Github: %s\n", p.Github)
 	fmt.Printf("LinkedIn: %s\n", p.LinkedIn)
+	fmt.Printf("E-mail: %s\n", p.Email)
 	fmt.Println()
 }
 
