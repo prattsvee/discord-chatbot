@@ -1,0 +1,25 @@
+mode: set
+github.com/kushallabs/taskmanagement/src/repository/db/inmemory/maps/project/project.go:13.34,18.2 2 0
+github.com/kushallabs/taskmanagement/src/repository/db/inmemory/maps/project/project.go:20.59,23.9 2 0
+github.com/kushallabs/taskmanagement/src/repository/db/inmemory/maps/project/project.go:23.9,25.3 1 0
+github.com/kushallabs/taskmanagement/src/repository/db/inmemory/maps/project/project.go:26.2,26.22 1 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:17.33,20.9 2 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:20.9,23.3 2 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:25.2,29.16 3 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:29.16,32.3 2 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:34.2,39.16 3 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:39.16,42.3 2 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:44.2,44.29 1 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:48.36,52.51 2 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:52.51,56.3 3 0
+github.com/kushallabs/taskmanagement/src/handlers/project/project.go:57.2,66.35 4 0
+github.com/kushallabs/taskmanagement/src/main.go:7.13,10.2 1 0
+github.com/kushallabs/taskmanagement/src/app/application.go:11.26,14.39 2 0
+github.com/kushallabs/taskmanagement/src/app/application.go:14.39,16.3 1 0
+github.com/kushallabs/taskmanagement/src/app/application.go:18.2,18.34 1 0
+github.com/kushallabs/taskmanagement/src/app/application.go:18.34,22.3 1 0
+github.com/kushallabs/taskmanagement/src/app/application.go:24.2,32.16 4 0
+github.com/kushallabs/taskmanagement/src/controllers/project/project.go:15.34,27.2 3 0
+github.com/kushallabs/taskmanagement/src/controllers/project/project.go:29.53,37.16 4 0
+github.com/kushallabs/taskmanagement/src/controllers/project/project.go:37.16,39.3 1 0
+github.com/kushallabs/taskmanagement/src/controllers/project/project.go:40.2,49.31 3 0
