@@ -18,5 +18,4 @@ This document is a requirement document for the project management system. The p
     - The system will allow users to track the progress of projects and tasks.
 
 
-//define how we run project management system
 
